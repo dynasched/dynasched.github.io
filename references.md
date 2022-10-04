@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Publications
+title: References
+
+---
 
 Papers
 ------

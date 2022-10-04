@@ -47,6 +47,7 @@ header_pages:
   - community.md
   - contribute.md
   - contributors-declaration.md
+  - references.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
