@@ -7,12 +7,18 @@ title: References
 Papers
 ------
 
-2004
+2001
 ====
 
- - Ralph H. Castain, William W. Saylor, and H.J. Siegel. Application of Lagrangian Receding Horizon Techniques to Resource Management in Ad Hoc Grid Environments, Heterogeneous Computing Workshop, 2004 \[[Paper](/uploads/HCW04-Lagrangian-FullPaper.pdf)\][Presentation](/uploads/HCW04-Lagrangian.pdf)
+ - Ali Jadbabaie and John Hauser. On the stability of unconstrained receding horizon control with a general terminal cost. 40th IEEE Conference on Decision and Control, 2001, Vol 5, pages 4826-4831 \[[Paper](/uploads/on-the-stability-of-RH-Control.pdf)\]
 
-2003
+2000
 ====
 
- - Jong-Kook Kim, Sameer Shivle, H.J. Siegel, Anthony A. Maciejewski, et al. Dynamic Mapping in a Heterogeneous Environment with Tasks Having Priorities and Multiple Deadlines. Heterogeneous Computing Workshop, 2003. \[[Paper](/uploads/hcw03_dynamic_publish.pdf)\]
+ - Ali Jadbabaie. Receding Horizon Control of Nonlinear Systems: A Control Lyapunov Function Approach, PhD Thesis, California Institute of Technology, Oct 13, 2000 \[[Paper](/uploads/jadbabaie00receding.pdf)\]
+
+1997
+====
+
+- F. Lobo Pereira and J. Borges de Sousa. On the receding horizon hierarchical optimal control of manufacturing systems. Journal of Intelligent Manufacturing, Vol 8, 1997, pages 425-433.
+\[[Paper](/uploads/SousaLobo.pdf)\]
